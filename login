@@ -48,4 +48,5 @@ int main()
 	 }while (A1 != 'q' );
 	  cout<<"Exit program......"<<endl;
 
-	  return(0);}
+	  return(0);
+}	  
